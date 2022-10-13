@@ -1,0 +1,15 @@
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.csproj.AssemblyReference.cache
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.AssemblyInfoInputs.cache
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.AssemblyInfo.cs
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.csproj.CoreCompileInputs.cache
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\bin\Debug\net6.0\ResultsBlock.exe
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\bin\Debug\net6.0\ResultsBlock.deps.json
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\bin\Debug\net6.0\ResultsBlock.runtimeconfig.json
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\bin\Debug\net6.0\ResultsBlock.dll
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\bin\Debug\net6.0\ResultsBlock.pdb
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.dll
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\refint\ResultsBlock.dll
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.pdb
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ResultsBlock.genruntimeconfig.cache
+C:\Users\Кампухтер\Desktop\GeekBrains\ResultsBlock\obj\Debug\net6.0\ref\ResultsBlock.dll
